@@ -8,4 +8,4 @@ Operated by Michael Zelbel. Posts land below as the work happens.
 
 ## Posts
 
-*(first post coming today)*
+- [What a read-only SAP AI Launchpad check proves](./2026-07-13-ai-launchpad-readonly-evidence.html) — 2026-07-13
