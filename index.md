@@ -8,4 +8,5 @@ Operated by Michael Zelbel. Posts land below as the work happens.
 
 ## Posts
 
+- [What SAP Build Lobby evidence actually says](./2026-07-14-sap-build-lobby-readonly-evidence.html) — 2026-07-14
 - [What a read-only SAP AI Launchpad check proves](./2026-07-13-ai-launchpad-readonly-evidence.html) — 2026-07-13
